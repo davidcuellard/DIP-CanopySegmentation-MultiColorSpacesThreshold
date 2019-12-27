@@ -8,5 +8,5 @@
 - Implementación de algoritmo de segmentación: Umbralización por espacios multi-color.
 - Class: segCanalest.py
 - Test: testcanales.py
-- RGB image: IMG_170805_165709_0138_RGB.JPG
-- NIR image: IMG_170805_165709_0138_NIR.TIF
+- Imagen RGB: IMG_170805_165709_0138_RGB.JPG
+- Imagen NIR: IMG_170805_165709_0138_NIR.TIF
