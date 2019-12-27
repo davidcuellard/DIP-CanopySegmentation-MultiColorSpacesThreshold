@@ -5,7 +5,7 @@
 - TG1907
 - Objetivo: Segmentación del dosel arbóreo
 - @author: David Felipe Cuellar Diaz
-- Implementación de algoritmo de degmentación: Umbralización por espacios multi-color.
+- Implementación de algoritmo de segmentación: Umbralización por espacios multi-color.
 - Class: segCanalest.py
 - Test: testcanales.py
 - RGB image: IMG_170805_165709_0138_RGB.JPG
