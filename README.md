@@ -6,7 +6,11 @@
 - Objetivo: Segmentación del dosel arbóreo
 - @author: David Felipe Cuellar Diaz
 - Implementación de algoritmo de segmentación: Umbralización por espacios multi-color.
-- Class: segMCS.py
-- Test: testMCS.py
 - Imagen RGB: IMG_170805_165709_0138_RGB.JPG
 - Imagen NIR: IMG_170805_165709_0138_NIR.TIF
+
+## `Run code`
+Download repository
+
+Run using:
+$ python3 runCode.py
